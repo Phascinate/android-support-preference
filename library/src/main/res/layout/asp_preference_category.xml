@@ -23,7 +23,7 @@
     android:layout_height="wrap_content"
     android:gravity="center_vertical"
     android:minHeight="48dp"
-    android:paddingBottom="16dip"
+    android:paddingBottom="0dip"
     android:paddingLeft="?listPreferredItemPaddingLeft"
     android:paddingRight="?listPreferredItemPaddingRight"
     android:paddingTop="16dip"
